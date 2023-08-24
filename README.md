@@ -1,10 +1,7 @@
-# QBCore Dispatch
+# Originally made for QBCore
 
-Integrated with https://github.com/Project-Sloth/ps-mdt
+DO NOT ASK FOR SUPPORT ON PROJECT SLOTH, NONE WILL BE OFFERED. 
 
-For all support questions, ask in our Discord support chat. Do not create issues if you need help. Issues are for bug reporting and new features only.
-
-https://www.discord.gg/projectsloth
 
 # Installation
 * Download ZIP
